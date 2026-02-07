@@ -1,3 +1,5 @@
+//Qs 1(1/2):Initialize an array of 10 elementts and print the array elements in reverse order.
+
 #include<iostream>
 using namespace std;
 int main (){
