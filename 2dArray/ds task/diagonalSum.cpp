@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() { 
     int n;
     cout << "Enter size of square matrix: ";
     cin >> n;
